@@ -1,0 +1,6 @@
+# Mac stuff
+.DS_STORE
+._*
+
+# Project stuff
+node_modules
